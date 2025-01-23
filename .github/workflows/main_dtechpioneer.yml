@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DTechPioneer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7225AA21555448ABE9AC892829D5B06 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04B45CC7FA3246BF9D42012F8206E2AA }}
